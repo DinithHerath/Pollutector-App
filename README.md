@@ -1,4 +1,4 @@
-# pollutector_app_v1
+# Pollutector App
 
 A new Flutter project.
 
